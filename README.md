@@ -5,7 +5,7 @@ SwiftUI learning. Working through the essentials from Apple's [developer docs](h
 ### Tutorials
 - [x] Creating and Combining Views
 - [x] Building Lists and Navigation
-- [ ] Handling User Input
+- [x] Handling User Input
 - [ ] Drawing Paths and Shapes
 - [ ] Animating Views and Transitions
 - [ ] Composing Complex Interfaces
